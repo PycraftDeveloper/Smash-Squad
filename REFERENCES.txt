@@ -1,0 +1,103 @@
+https://www.fab.com/listings/2258924e-dcf0-45fc-8862-c8a14a8fc548 - ninja player (black)
+https://sketchfab.com/3d-models/cyber-soldier-b1edf9e7794d4c4ab5817779d1429620 - warp (blue)
+https://www.fab.com/listings/15e2afd1-11c0-4679-832c-ebbfb6162583 - Goemancer (green)
+https://www.fab.com/listings/15e2afd1-11c0-4679-832c-ebbfb6162583 - Pyro (red)
+
+ https://assetstore.unity.com/packages/3d/environments/unity-terrain-urp-demo-scene-213197 - terrain
+ https://assetstore.unity.com/packages/3d/environments/flooded-grounds-48529 - apocalypse
+
+FONT - https://www.1001fonts.com/before-collapse-font.html
+
+ANIMATED LOADING ICONS - https://assetstore.unity.com/packages/2d/gui/icons/animated-loading-icons-47844
+Moon Texture - https://svs.gsfc.nasa.gov/4720
+base procedural sky texture - https://github.com/TwoTailsGames/Unity-Built-in-Shaders/blob/master/DefaultResourcesExtra/Skybox-Procedural.shader
+
+UI - https://kenney-assets.itch.io/fantasy-ui-borders
+
+Candy Texture 1 - https://ambientcg.com/view?id=Candy001
+Candy Texture 2 - https://ambientcg.com/view?id=Candy003
+Candy Texture 3 - https://ambientcg.com/view?id=Candy002
+Chocolate maybe? - https://ambientcg.com/view?id=Leather034C
+Waffle maybe? - https://ambientcg.com/view?id=RoofingTiles012B
+Tranaparent candy maybe? - https://ambientcg.com/view?id=FabricSubstance005
+
+Ice Cream - https://sketchfab.com/3d-models/ice-cream-345f5c6cf369414798e31e1f089527d9
+Candy Assortment - https://sketchfab.com/3d-models/candy-34bbb16e80dd4b768089b9b31d291aea
+Doughnuts - https://sketchfab.com/3d-models/candy-apples-doughnuts-candy-canes-7bdb381b3bf04f5e96b4e9fe2a67d35e
+Cookies - https://sketchfab.com/3d-models/cookies-biscuits-9a1006a203f3463da04338f602c4c022
+
+Player Icon - <a href="https://www.flaticon.com/free-icons/pictogram" title="pictogram icons">Pictogram icons created by Prosymbols Premium - Flaticon</a>
+
+Fireball Texture - https://freepbr.com/product/lava-and-rock-pbr/
+Fire particles - https://assetstore.unity.com/packages/vfx/particles/particle-pack-127325
+Trail particles - https://assetstore.unity.com/packages/vfx/trails-vfx-242572
+
+Arrow 3D model - https://sketchfab.com/3d-models/arrow-8a85003c1d604fc5a3b1d298e88a9d2b
+
+Finlay Button Icons
+
+https://api.unity.com/v1/oauth2/authorize?client_id=asset_store_v2&locale=en_GB&redirect_uri=https%3A%2F%2Fassetstore.unity.com%2Fauth%2Fcallback%3Fredirect_to%3D%252Fpackages%252F2d%252Fgui%252Ficons%252Fgui-parts-159068&response_type=code&state=2626889b-e66d-41b6-98aa-cfccbee1afe1 - UI pack
+
+https://cooltext.com/Download-Font-BatmanForeverAlternate - Font
+
+<a href="https://www.flaticon.com/free-icons/pause-button" title="pause button icons">Pause button icons created by SumberRejeki - Flaticon</a> - Pause Button
+<a href="https://www.flaticon.com/free-icons/music-player" title="music player icons">Music player icons created by Freepik - Flaticon</a> - Play Button
+
+SFX in game
+===========
+
+https://freesound.org/people/cydon/sounds/268555/ - explosion **
+https://freesound.org/people/GiocoSound/sounds/421145/ - footstep ** 
+https://freesound.org/people/checholio/sounds/443819/ - arrow fire **
+https://freesound.org/people/Romeo_Kaleikau/sounds/588251/ - power up **
+https://freesound.org/people/LloydEvans09/sounds/185849/ - warp **
+https://freesound.org/people/OwlStorm/sounds/23152/ - arrow hit sound **
+
+Music in game
+=============
+
+Music by <a href="https://pixabay.com/users/evgeny_bardyuzha-25235210/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=364091">Evgeny Bardyuzha</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=364091">Pixabay</a>
+
+Music by <a href="https://pixabay.com/users/rockot-1947599/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=351436">Rockot</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=351436">Pixabay</a>
+
+Music by <a href="https://pixabay.com/users/penguinmusic-24940186/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=344320">Oleksandr Stepanov</a> from <a href="https://pixabay.com/music//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=344320">Pixabay</a>
+
+Music by <a href="https://pixabay.com/users/raspberrymusic-27759797/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=394291">raspberrymusic</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=394291">Pixabay</a>
+
+Levels (2)
+==========
+
+Candyland
+Floating islands (bridges, forests exct)
+
+Sounds
+======
+
+Beat 'em up, king of the hill game
+
+footstep sounds for each level
+	- Candyland - FOLEY? - https://freesound.org/people/wisteriallure/sounds/724406/
+	- Borrow sounds from HTTYD game
+
+hit sound - https://freesound.org/people/terratrailblazer/sounds/826992/
+arrow fire sound - https://freesound.org/people/saturdaysoundguy/sounds/394185/
+arrow draw sound - https://freesound.org/people/Paveroux/sounds/490556/
+ability cast sounds
+	- geo - https://freesound.org/people/AlanCat/sounds/381645/
+	- warp - https://freesound.org/people/LloydEvans09/sounds/185849/
+	- pyro - https://freesound.org/people/miksmusic/sounds/424317/
+
+fireball fall sound - https://freesound.org/people/jcookvoice/sounds/586531/ (MAYBE)
+fireball explosion - https://freesound.org/people/Robinhood76/sounds/564041/
+land sounds for each level
+	- candyland - https://freesound.org/people/Erbsland-Music/sounds/634154/
+	- Forest - https://freesound.org/people/Profispiesser/sounds/550918/
+
+ambient sounds
+	- Candy land - https://freesound.org/people/Vrymaa/sounds/722394/ (maybe)
+	- Borrow sounds from HTTYD game
+
+music -
+	candyland - https://freesound.org/people/gertraut_hecher/sounds/588644/
+
+https://freesound.org/people/suntemple/sounds/241809/
